@@ -4,9 +4,11 @@ Dinky little toys for helping to understand and explain how computers "understan
 # GoogleNews-vectors-negative300.bin
 Many of these scripts utilize The "GoogleNews-vectors-negative300.bin" file, not included in this repository but freely available for download. 
 This is a pre-trained Word2Vec model provided by Google.
+
 It was trained on a part of the Google News dataset, containing about 100 billion words.
 The model contains 300-dimensional vectors for 3 million words and phrases.
 Uncompressed, this file is approximately 3.39 GB. So it might take a while for anything to happen when first running. Subsequent prompts will be speedier though.
+
 **Here's a breakdown of what each part of the file name means:**
 "GoogleNews": This indicates that the model was trained on a dataset from Google News.
 "vectors": This indicates that the file contains word vectors, which are multi-dimensional representations of words.
