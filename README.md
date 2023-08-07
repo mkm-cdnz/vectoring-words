@@ -22,7 +22,9 @@ prints the three words whose vectors are closest to any word the user inputs
 # first-vector-4-gui.py
 Performs simple word vector arithmetic
   e.g. 
+  
   (king + womaman) - man = queen
+  
   (queen + man) - woman = king
 
 # prompt-for-gui.html
