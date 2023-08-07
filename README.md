@@ -23,7 +23,7 @@ prints the three words whose vectors are closest to any word the user inputs
 Performs simple word vector arithmetic
   e.g. 
   
-  (king + womaman) - man = queen
+  (king + woman) - man = queen
   
   (queen + man) - woman = king
 
