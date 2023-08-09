@@ -30,14 +30,19 @@ Performs simple word vector arithmetic
   
   (queen + man) - woman = king
 
+  <img width="669" alt="image" src="https://github.com/mkm-cdnz/vectoring-words/assets/141604528/82c99f61-ee94-4f20-992c-bb1c4edac61b">
+
   Words can be represented as vectors within a set of 300-dimensional coordinates. 
   By adding and subtracting these coordinates, language models can represent meanings and relationships between words or concepts mathematically.
   
   
   The words king and queen are approximately the same distance and direction away from each other in this 300-dimensional space as the words man is from woman. Vector arithmetic allows us to play with this concept and understand how computers infer relationships and assumptions programmed into human language.
   
-  <img width="669" alt="image" src="https://github.com/mkm-cdnz/vectoring-words/assets/141604528/82c99f61-ee94-4f20-992c-bb1c4edac61b">
+  
   <img width="454" alt="image" src="https://github.com/mkm-cdnz/vectoring-words/assets/141604528/c5f5c008-fa09-4fa3-9606-d3d01ee5dbca">
+  <img width="909" alt="image" src="https://github.com/mkm-cdnz/vectoring-words/assets/141604528/52063c5b-66ec-4b35-b26e-011f3e0e7326">
+
+  
 
 
 
