@@ -18,6 +18,8 @@ Uncompressed, this file is approximately 3.39 GB. So it might take a while for a
 
 # closest-word-2.py 
 prints the three words whose vectors are closest to any word the user inputs
+<img width="234" alt="image" src="https://github.com/mkm-cdnz/vectoring-words/assets/141604528/62c87184-353e-4744-b209-9b59e748856f">
+
 
 # first-vector-4-gui.py
 Performs simple word vector arithmetic
@@ -27,5 +29,11 @@ Performs simple word vector arithmetic
   
   (queen + man) - woman = king
 
-# prompt-for-gui.html
-The prompt used to generate **first-vector-1-gui.py** in GPT-4. Uses Nested HTML-style tags to create human-readable prompts that are specific in said prompt's requirements.
+  Words can be represented as vectors within a set of 300-dimensional coordinates. 
+  By adding and subtracting these coordinates, language models can represent meanings and relationships between words or concepts mathematically. The words king and queen are approximately the same distance and direction away from each other in this 300-dimensional space as the words man is from woman. Vector arithmetic allows us to play with this concept and understand how computers infer relationships and assumptions programmed into human language.
+  <img width="669" alt="image" src="https://github.com/mkm-cdnz/vectoring-words/assets/141604528/82c99f61-ee94-4f20-992c-bb1c4edac61b">
+  <img width="454" alt="image" src="https://github.com/mkm-cdnz/vectoring-words/assets/141604528/c5f5c008-fa09-4fa3-9606-d3d01ee5dbca">
+
+
+
+
