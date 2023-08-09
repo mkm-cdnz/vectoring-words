@@ -31,7 +31,8 @@ Performs simple word vector arithmetic
   (queen + man) - woman = king
 
   Words can be represented as vectors within a set of 300-dimensional coordinates. 
-  By adding and subtracting these coordinates, language models can represent meanings and relationships between words or concepts mathematically. 
+  By adding and subtracting these coordinates, language models can represent meanings and relationships between words or concepts mathematically.
+  This is an approach that allows models to make inferences such as "X is to Y as A is to B".
   
   The words king and queen are approximately the same distance and direction away from each other in this 300-dimensional space as the words man is from woman. Vector arithmetic allows us to play with this concept and understand how computers infer relationships and assumptions programmed into human language.
   
